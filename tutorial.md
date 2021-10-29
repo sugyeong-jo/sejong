@@ -28,3 +28,6 @@ jupyter notebook --allow-root
 ```
 
 $http://localhost:8888/?tocken=~~$ 복사 후 chrome에 붙여넣기
+
+# 5. pycaret example
+https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Regression.ipynb
